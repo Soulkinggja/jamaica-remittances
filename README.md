@@ -92,12 +92,28 @@ The forecast ranges come from 2,000 simulated future paths, so the annual range 
 * **Beryl (July 2024)** is the comparison storm. It left no lasting mark: the total over
   the six months after landfall was within 0.3% of expected.
 
+## Robustness checks
+
+`src/03_robustness.py` reruns the hurricane results four other ways. All four agree.
+
+| Check | Result |
+|---|---|
+| Damage intensity instead of a west dummy (World Bank GRADE damage as a share of exposed value, by parish) | Each 10 points of damage share meant 6.5% less remittances in November 2025 (p = 0.026). Nothing in other months |
+| Wild cluster bootstrap for the west vs rest gap (Webb weights, 9,999 draws, 13 parishes) | Minus 14.9%, p = 0.0035 |
+| SARIMA instead of exponential smoothing | October 9% to 12% below expected, November 4% to 20% above; US, UK and Canada within 4% over the two months combined |
+| Visitors, against each segment's own pre storm trend | October to December 2025: foreign stopovers 43.6% below expected, non resident Jamaicans 8.7% below. November: minus 72.2% vs minus 9.1% |
+
+The five western parishes used above are also the five with the highest damage share in the
+[World Bank GRADE report](https://www.gfdrr.org/en/JamaicaGRADE) (St. Elizabeth 26.3%, Westmoreland
+19.2%, St. James 15.4%, Trelawny 12.8%, Hanover 9.4%), so the grouping was not picked after the fact.
+
 ## Run it
 
 ```bash
 pip install -r requirements.txt
 python src/01_forecast.py      # backtest and forecast
 python src/02_hurricanes.py    # storm analysis
+python src/03_robustness.py    # robustness checks and visitors
 streamlit run app.py
 ```
 
@@ -108,7 +124,8 @@ app.py                  the Streamlit app
 src/model.py            data loading and forecasting models
 src/01_forecast.py      backtest and forecast to Dec 2027
 src/02_hurricanes.py    Beryl and Melissa analysis, parish difference in differences
-data/raw/               Bank of Jamaica tables as CSV
+src/03_robustness.py    damage intensity, wild bootstrap, SARIMA, visitors
+data/raw/               Bank of Jamaica tables, JTB visitors, World Bank damage by parish
 outputs/                results used by the app
 ```
 

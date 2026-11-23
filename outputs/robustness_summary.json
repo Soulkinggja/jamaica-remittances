@@ -1,0 +1,117 @@
+{
+ "damage_intensity_per_10pts": {
+  "2025-09": {
+   "pct": -1.0,
+   "p": 0.555
+  },
+  "2025-10": {
+   "pct": -2.6,
+   "p": 0.285
+  },
+  "2025-11": {
+   "pct": -6.5,
+   "p": 0.026
+  },
+  "2025-12": {
+   "pct": -1.4,
+   "p": 0.44
+  },
+  "2026-01": {
+   "pct": 0.7,
+   "p": 0.649
+  },
+  "2026-02": {
+   "pct": 0.8,
+   "p": 0.667
+  },
+  "2026-03": {
+   "pct": -1.6,
+   "p": 0.332
+  }
+ },
+ "wild_bootstrap_nov_west": {
+  "estimate_pct": -14.9,
+  "t": -3.92,
+  "p_cluster": 0.0001,
+  "p_wild_bootstrap": 0.0035,
+  "draws": 9999,
+  "clusters": 13
+ },
+ "sarima_melissa": {
+  "total_remittances": {
+   "oct_pct": -9.3,
+   "nov_pct": 12.1,
+   "oct_nov_combined_pct": 1.1
+  },
+  "united_states": {
+   "oct_pct": -10.3,
+   "nov_pct": 10.5,
+   "oct_nov_combined_pct": -0.3
+  },
+  "united_kingdom": {
+   "oct_pct": -12.2,
+   "nov_pct": 20.3,
+   "oct_nov_combined_pct": 3.9
+  },
+  "canada": {
+   "oct_pct": -11.3,
+   "nov_pct": 16.6,
+   "oct_nov_combined_pct": 1.4
+  },
+  "cayman_islands": {
+   "oct_pct": -9.1,
+   "nov_pct": 4.4,
+   "oct_nov_combined_pct": -2.3
+  }
+ },
+ "visitors": {
+  "Foreign nationals": {
+   "pre_storm_growth_jan_sep_2025_pct": 1.1,
+   "months": {
+    "2025-10": {
+     "actual": 143883,
+     "expected": 182455,
+     "gap_pct": -21.1,
+     "yoy_pct": -20.3
+    },
+    "2025-11": {
+     "actual": 56546,
+     "expected": 203530,
+     "gap_pct": -72.2,
+     "yoy_pct": -71.9
+    },
+    "2025-12": {
+     "actual": 167498,
+     "expected": 266651,
+     "gap_pct": -37.2,
+     "yoy_pct": -36.5
+    }
+   },
+   "oct_dec_gap_pct": -43.6
+  },
+  "Non resident Jamaicans": {
+   "pre_storm_growth_jan_sep_2025_pct": -15.1,
+   "months": {
+    "2025-10": {
+     "actual": 11817,
+     "expected": 14761,
+     "gap_pct": -19.9,
+     "yoy_pct": -32.1
+    },
+    "2025-11": {
+     "actual": 13535,
+     "expected": 14896,
+     "gap_pct": -9.1,
+     "yoy_pct": -22.9
+    },
+    "2025-12": {
+     "actual": 31828,
+     "expected": 32956,
+     "gap_pct": -3.4,
+     "yoy_pct": -18.0
+    }
+   },
+   "oct_dec_gap_pct": -8.7
+  }
+ }
+}

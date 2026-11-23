@@ -1,0 +1,577 @@
+date,segment,source_region,stopovers
+2023-01-01,Foreign nationals,United States,145730
+2023-02-01,Foreign nationals,United States,148408
+2023-03-01,Foreign nationals,United States,192890
+2023-04-01,Foreign nationals,United States,171807
+2023-05-01,Foreign nationals,United States,162995
+2023-06-01,Foreign nationals,United States,205947
+2023-07-01,Foreign nationals,United States,215152
+2023-08-01,Foreign nationals,United States,175959
+2023-09-01,Foreign nationals,United States,119978
+2023-10-01,Foreign nationals,United States,133127
+2023-11-01,Foreign nationals,United States,146325
+2023-12-01,Foreign nationals,United States,183006
+2023-01-01,Foreign nationals,Canada,41645
+2023-02-01,Foreign nationals,Canada,40814
+2023-03-01,Foreign nationals,Canada,41024
+2023-04-01,Foreign nationals,Canada,36578
+2023-05-01,Foreign nationals,Canada,22614
+2023-06-01,Foreign nationals,Canada,16076
+2023-07-01,Foreign nationals,Canada,21302
+2023-08-01,Foreign nationals,Canada,19633
+2023-09-01,Foreign nationals,Canada,15635
+2023-10-01,Foreign nationals,Canada,20039
+2023-11-01,Foreign nationals,Canada,32137
+2023-12-01,Foreign nationals,Canada,43924
+2023-01-01,Foreign nationals,Europe,22463
+2023-02-01,Foreign nationals,Europe,21087
+2023-03-01,Foreign nationals,Europe,20349
+2023-04-01,Foreign nationals,Europe,18737
+2023-05-01,Foreign nationals,Europe,20387
+2023-06-01,Foreign nationals,Europe,19181
+2023-07-01,Foreign nationals,Europe,21329
+2023-08-01,Foreign nationals,Europe,22472
+2023-09-01,Foreign nationals,Europe,19010
+2023-10-01,Foreign nationals,Europe,19730
+2023-11-01,Foreign nationals,Europe,22644
+2023-12-01,Foreign nationals,Europe,27624
+2023-01-01,Foreign nationals,Latin America,2626
+2023-02-01,Foreign nationals,Latin America,2410
+2023-03-01,Foreign nationals,Latin America,2234
+2023-04-01,Foreign nationals,Latin America,3168
+2023-05-01,Foreign nationals,Latin America,2709
+2023-06-01,Foreign nationals,Latin America,2620
+2023-07-01,Foreign nationals,Latin America,2502
+2023-08-01,Foreign nationals,Latin America,2295
+2023-09-01,Foreign nationals,Latin America,2654
+2023-10-01,Foreign nationals,Latin America,2553
+2023-11-01,Foreign nationals,Latin America,2622
+2023-12-01,Foreign nationals,Latin America,2485
+2023-01-01,Foreign nationals,Caribbean,2545
+2023-02-01,Foreign nationals,Caribbean,2652
+2023-03-01,Foreign nationals,Caribbean,3202
+2023-04-01,Foreign nationals,Caribbean,5910
+2023-05-01,Foreign nationals,Caribbean,3708
+2023-06-01,Foreign nationals,Caribbean,3696
+2023-07-01,Foreign nationals,Caribbean,5113
+2023-08-01,Foreign nationals,Caribbean,4173
+2023-09-01,Foreign nationals,Caribbean,3828
+2023-10-01,Foreign nationals,Caribbean,4035
+2023-11-01,Foreign nationals,Caribbean,3411
+2023-12-01,Foreign nationals,Caribbean,3868
+2023-01-01,Foreign nationals,Asia,366
+2023-02-01,Foreign nationals,Asia,388
+2023-03-01,Foreign nationals,Asia,419
+2023-04-01,Foreign nationals,Asia,362
+2023-05-01,Foreign nationals,Asia,541
+2023-06-01,Foreign nationals,Asia,435
+2023-07-01,Foreign nationals,Asia,566
+2023-08-01,Foreign nationals,Asia,377
+2023-09-01,Foreign nationals,Asia,575
+2023-10-01,Foreign nationals,Asia,610
+2023-11-01,Foreign nationals,Asia,769
+2023-12-01,Foreign nationals,Asia,657
+2023-01-01,Foreign nationals,Africa,102
+2023-02-01,Foreign nationals,Africa,86
+2023-03-01,Foreign nationals,Africa,93
+2023-04-01,Foreign nationals,Africa,70
+2023-05-01,Foreign nationals,Africa,154
+2023-06-01,Foreign nationals,Africa,149
+2023-07-01,Foreign nationals,Africa,206
+2023-08-01,Foreign nationals,Africa,100
+2023-09-01,Foreign nationals,Africa,261
+2023-10-01,Foreign nationals,Africa,105
+2023-11-01,Foreign nationals,Africa,127
+2023-12-01,Foreign nationals,Africa,147
+2023-01-01,Foreign nationals,Other,299
+2023-02-01,Foreign nationals,Other,245
+2023-03-01,Foreign nationals,Other,224
+2023-04-01,Foreign nationals,Other,292
+2023-05-01,Foreign nationals,Other,272
+2023-06-01,Foreign nationals,Other,278
+2023-07-01,Foreign nationals,Other,388
+2023-08-01,Foreign nationals,Other,287
+2023-09-01,Foreign nationals,Other,230
+2023-10-01,Foreign nationals,Other,212
+2023-11-01,Foreign nationals,Other,230
+2023-12-01,Foreign nationals,Other,298
+2023-01-01,Non resident Jamaicans,United States,9303
+2023-02-01,Non resident Jamaicans,United States,8557
+2023-03-01,Non resident Jamaicans,United States,11139
+2023-04-01,Non resident Jamaicans,United States,11771
+2023-05-01,Non resident Jamaicans,United States,10266
+2023-06-01,Non resident Jamaicans,United States,14463
+2023-07-01,Non resident Jamaicans,United States,17726
+2023-08-01,Non resident Jamaicans,United States,13699
+2023-09-01,Non resident Jamaicans,United States,10944
+2023-10-01,Non resident Jamaicans,United States,11275
+2023-11-01,Non resident Jamaicans,United States,9543
+2023-12-01,Non resident Jamaicans,United States,23954
+2023-01-01,Non resident Jamaicans,Canada,1733
+2023-02-01,Non resident Jamaicans,Canada,1418
+2023-03-01,Non resident Jamaicans,Canada,1763
+2023-04-01,Non resident Jamaicans,Canada,1867
+2023-05-01,Non resident Jamaicans,Canada,1453
+2023-06-01,Non resident Jamaicans,Canada,1966
+2023-07-01,Non resident Jamaicans,Canada,2831
+2023-08-01,Non resident Jamaicans,Canada,1744
+2023-09-01,Non resident Jamaicans,Canada,1727
+2023-10-01,Non resident Jamaicans,Canada,2072
+2023-11-01,Non resident Jamaicans,Canada,1945
+2023-12-01,Non resident Jamaicans,Canada,4572
+2023-01-01,Non resident Jamaicans,Europe,1408
+2023-02-01,Non resident Jamaicans,Europe,1159
+2023-03-01,Non resident Jamaicans,Europe,1293
+2023-04-01,Non resident Jamaicans,Europe,1141
+2023-05-01,Non resident Jamaicans,Europe,1358
+2023-06-01,Non resident Jamaicans,Europe,1543
+2023-07-01,Non resident Jamaicans,Europe,1581
+2023-08-01,Non resident Jamaicans,Europe,1447
+2023-09-01,Non resident Jamaicans,Europe,1351
+2023-10-01,Non resident Jamaicans,Europe,1397
+2023-11-01,Non resident Jamaicans,Europe,1168
+2023-12-01,Non resident Jamaicans,Europe,2545
+2023-01-01,Non resident Jamaicans,Latin America,15
+2023-02-01,Non resident Jamaicans,Latin America,15
+2023-03-01,Non resident Jamaicans,Latin America,14
+2023-04-01,Non resident Jamaicans,Latin America,8
+2023-05-01,Non resident Jamaicans,Latin America,18
+2023-06-01,Non resident Jamaicans,Latin America,26
+2023-07-01,Non resident Jamaicans,Latin America,25
+2023-08-01,Non resident Jamaicans,Latin America,20
+2023-09-01,Non resident Jamaicans,Latin America,18
+2023-10-01,Non resident Jamaicans,Latin America,20
+2023-11-01,Non resident Jamaicans,Latin America,45
+2023-12-01,Non resident Jamaicans,Latin America,50
+2023-01-01,Non resident Jamaicans,Caribbean,1191
+2023-02-01,Non resident Jamaicans,Caribbean,1272
+2023-03-01,Non resident Jamaicans,Caribbean,1325
+2023-04-01,Non resident Jamaicans,Caribbean,1951
+2023-05-01,Non resident Jamaicans,Caribbean,1356
+2023-06-01,Non resident Jamaicans,Caribbean,1751
+2023-07-01,Non resident Jamaicans,Caribbean,2751
+2023-08-01,Non resident Jamaicans,Caribbean,2084
+2023-09-01,Non resident Jamaicans,Caribbean,2007
+2023-10-01,Non resident Jamaicans,Caribbean,1790
+2023-11-01,Non resident Jamaicans,Caribbean,1527
+2023-12-01,Non resident Jamaicans,Caribbean,5342
+2023-01-01,Non resident Jamaicans,Asia,9
+2023-02-01,Non resident Jamaicans,Asia,7
+2023-03-01,Non resident Jamaicans,Asia,7
+2023-04-01,Non resident Jamaicans,Asia,8
+2023-05-01,Non resident Jamaicans,Asia,7
+2023-06-01,Non resident Jamaicans,Asia,20
+2023-07-01,Non resident Jamaicans,Asia,60
+2023-08-01,Non resident Jamaicans,Asia,28
+2023-09-01,Non resident Jamaicans,Asia,11
+2023-10-01,Non resident Jamaicans,Asia,7
+2023-11-01,Non resident Jamaicans,Asia,11
+2023-12-01,Non resident Jamaicans,Asia,45
+2023-01-01,Non resident Jamaicans,Africa,5
+2023-02-01,Non resident Jamaicans,Africa,4
+2023-03-01,Non resident Jamaicans,Africa,1
+2023-04-01,Non resident Jamaicans,Africa,3
+2023-05-01,Non resident Jamaicans,Africa,2
+2023-06-01,Non resident Jamaicans,Africa,1
+2023-07-01,Non resident Jamaicans,Africa,10
+2023-08-01,Non resident Jamaicans,Africa,5
+2023-09-01,Non resident Jamaicans,Africa,3
+2023-10-01,Non resident Jamaicans,Africa,5
+2023-11-01,Non resident Jamaicans,Africa,2
+2023-12-01,Non resident Jamaicans,Africa,6
+2023-01-01,Non resident Jamaicans,Other,16
+2023-02-01,Non resident Jamaicans,Other,18
+2023-03-01,Non resident Jamaicans,Other,9
+2023-04-01,Non resident Jamaicans,Other,17
+2023-05-01,Non resident Jamaicans,Other,18
+2023-06-01,Non resident Jamaicans,Other,35
+2023-07-01,Non resident Jamaicans,Other,67
+2023-08-01,Non resident Jamaicans,Other,27
+2023-09-01,Non resident Jamaicans,Other,11
+2023-10-01,Non resident Jamaicans,Other,20
+2023-11-01,Non resident Jamaicans,Other,9
+2023-12-01,Non resident Jamaicans,Other,52
+2024-01-01,Foreign nationals,United States,153567
+2024-02-01,Foreign nationals,United States,152529
+2024-03-01,Foreign nationals,United States,191584
+2024-04-01,Foreign nationals,United States,154546
+2024-05-01,Foreign nationals,United States,155642
+2024-06-01,Foreign nationals,United States,193356
+2024-07-01,Foreign nationals,United States,179396
+2024-08-01,Foreign nationals,United States,160888
+2024-09-01,Foreign nationals,United States,104803
+2024-10-01,Foreign nationals,United States,126557
+2024-11-01,Foreign nationals,United States,137499
+2024-12-01,Foreign nationals,United States,185476
+2024-01-01,Foreign nationals,Canada,44717
+2024-02-01,Foreign nationals,Canada,44464
+2024-03-01,Foreign nationals,Canada,46028
+2024-04-01,Foreign nationals,Canada,36710
+2024-05-01,Foreign nationals,Canada,25371
+2024-06-01,Foreign nationals,Canada,17917
+2024-07-01,Foreign nationals,Canada,21911
+2024-08-01,Foreign nationals,Canada,22280
+2024-09-01,Foreign nationals,Canada,17622
+2024-10-01,Foreign nationals,Canada,21783
+2024-11-01,Foreign nationals,Canada,32754
+2024-12-01,Foreign nationals,Canada,42568
+2024-01-01,Foreign nationals,Europe,24176
+2024-02-01,Foreign nationals,Europe,23047
+2024-03-01,Foreign nationals,Europe,24685
+2024-04-01,Foreign nationals,Europe,22546
+2024-05-01,Foreign nationals,Europe,22245
+2024-06-01,Foreign nationals,Europe,21069
+2024-07-01,Foreign nationals,Europe,21476
+2024-08-01,Foreign nationals,Europe,25855
+2024-09-01,Foreign nationals,Europe,20799
+2024-10-01,Foreign nationals,Europe,23189
+2024-11-01,Foreign nationals,Europe,22746
+2024-12-01,Foreign nationals,Europe,25659
+2024-01-01,Foreign nationals,Latin America,3460
+2024-02-01,Foreign nationals,Latin America,2932
+2024-03-01,Foreign nationals,Latin America,2592
+2024-04-01,Foreign nationals,Latin America,2551
+2024-05-01,Foreign nationals,Latin America,3059
+2024-06-01,Foreign nationals,Latin America,2581
+2024-07-01,Foreign nationals,Latin America,2562
+2024-08-01,Foreign nationals,Latin America,2570
+2024-09-01,Foreign nationals,Latin America,2711
+2024-10-01,Foreign nationals,Latin America,2996
+2024-11-01,Foreign nationals,Latin America,2848
+2024-12-01,Foreign nationals,Latin America,3940
+2024-01-01,Foreign nationals,Caribbean,4008
+2024-02-01,Foreign nationals,Caribbean,3639
+2024-03-01,Foreign nationals,Caribbean,4513
+2024-04-01,Foreign nationals,Caribbean,4260
+2024-05-01,Foreign nationals,Caribbean,4579
+2024-06-01,Foreign nationals,Caribbean,4051
+2024-07-01,Foreign nationals,Caribbean,5110
+2024-08-01,Foreign nationals,Caribbean,6530
+2024-09-01,Foreign nationals,Caribbean,4543
+2024-10-01,Foreign nationals,Caribbean,4980
+2024-11-01,Foreign nationals,Caribbean,4269
+2024-12-01,Foreign nationals,Caribbean,4969
+2024-01-01,Foreign nationals,Asia,535
+2024-02-01,Foreign nationals,Asia,566
+2024-03-01,Foreign nationals,Asia,798
+2024-04-01,Foreign nationals,Asia,618
+2024-05-01,Foreign nationals,Asia,732
+2024-06-01,Foreign nationals,Asia,545
+2024-07-01,Foreign nationals,Asia,689
+2024-08-01,Foreign nationals,Asia,601
+2024-09-01,Foreign nationals,Asia,613
+2024-10-01,Foreign nationals,Asia,650
+2024-11-01,Foreign nationals,Asia,771
+2024-12-01,Foreign nationals,Asia,644
+2024-01-01,Foreign nationals,Africa,92
+2024-02-01,Foreign nationals,Africa,119
+2024-03-01,Foreign nationals,Africa,173
+2024-04-01,Foreign nationals,Africa,95
+2024-05-01,Foreign nationals,Africa,196
+2024-06-01,Foreign nationals,Africa,150
+2024-07-01,Foreign nationals,Africa,170
+2024-08-01,Foreign nationals,Africa,143
+2024-09-01,Foreign nationals,Africa,131
+2024-10-01,Foreign nationals,Africa,108
+2024-11-01,Foreign nationals,Africa,171
+2024-12-01,Foreign nationals,Africa,162
+2024-01-01,Foreign nationals,Other,332
+2024-02-01,Foreign nationals,Other,234
+2024-03-01,Foreign nationals,Other,244
+2024-04-01,Foreign nationals,Other,290
+2024-05-01,Foreign nationals,Other,230
+2024-06-01,Foreign nationals,Other,409
+2024-07-01,Foreign nationals,Other,322
+2024-08-01,Foreign nationals,Other,184
+2024-09-01,Foreign nationals,Other,192
+2024-10-01,Foreign nationals,Other,218
+2024-11-01,Foreign nationals,Other,270
+2024-12-01,Foreign nationals,Other,348
+2024-01-01,Non resident Jamaicans,United States,10431
+2024-02-01,Non resident Jamaicans,United States,10437
+2024-03-01,Non resident Jamaicans,United States,14207
+2024-04-01,Non resident Jamaicans,United States,12039
+2024-05-01,Non resident Jamaicans,United States,11797
+2024-06-01,Non resident Jamaicans,United States,16422
+2024-07-01,Non resident Jamaicans,United States,18018
+2024-08-01,Non resident Jamaicans,United States,15847
+2024-09-01,Non resident Jamaicans,United States,11117
+2024-10-01,Non resident Jamaicans,United States,11743
+2024-11-01,Non resident Jamaicans,United States,11978
+2024-12-01,Non resident Jamaicans,United States,26584
+2024-01-01,Non resident Jamaicans,Canada,1845
+2024-02-01,Non resident Jamaicans,Canada,1506
+2024-03-01,Non resident Jamaicans,Canada,2073
+2024-04-01,Non resident Jamaicans,Canada,1721
+2024-05-01,Non resident Jamaicans,Canada,1763
+2024-06-01,Non resident Jamaicans,Canada,1922
+2024-07-01,Non resident Jamaicans,Canada,2815
+2024-08-01,Non resident Jamaicans,Canada,2156
+2024-09-01,Non resident Jamaicans,Canada,1551
+2024-10-01,Non resident Jamaicans,Canada,1946
+2024-11-01,Non resident Jamaicans,Canada,2289
+2024-12-01,Non resident Jamaicans,Canada,4121
+2024-01-01,Non resident Jamaicans,Europe,1473
+2024-02-01,Non resident Jamaicans,Europe,1333
+2024-03-01,Non resident Jamaicans,Europe,1612
+2024-04-01,Non resident Jamaicans,Europe,1594
+2024-05-01,Non resident Jamaicans,Europe,1592
+2024-06-01,Non resident Jamaicans,Europe,1572
+2024-07-01,Non resident Jamaicans,Europe,2147
+2024-08-01,Non resident Jamaicans,Europe,1704
+2024-09-01,Non resident Jamaicans,Europe,1374
+2024-10-01,Non resident Jamaicans,Europe,1490
+2024-11-01,Non resident Jamaicans,Europe,1463
+2024-12-01,Non resident Jamaicans,Europe,2266
+2024-01-01,Non resident Jamaicans,Latin America,27
+2024-02-01,Non resident Jamaicans,Latin America,30
+2024-03-01,Non resident Jamaicans,Latin America,21
+2024-04-01,Non resident Jamaicans,Latin America,53
+2024-05-01,Non resident Jamaicans,Latin America,40
+2024-06-01,Non resident Jamaicans,Latin America,41
+2024-07-01,Non resident Jamaicans,Latin America,42
+2024-08-01,Non resident Jamaicans,Latin America,38
+2024-09-01,Non resident Jamaicans,Latin America,24
+2024-10-01,Non resident Jamaicans,Latin America,33
+2024-11-01,Non resident Jamaicans,Latin America,39
+2024-12-01,Non resident Jamaicans,Latin America,62
+2024-01-01,Non resident Jamaicans,Caribbean,2092
+2024-02-01,Non resident Jamaicans,Caribbean,1985
+2024-03-01,Non resident Jamaicans,Caribbean,2862
+2024-04-01,Non resident Jamaicans,Caribbean,2176
+2024-05-01,Non resident Jamaicans,Caribbean,2110
+2024-06-01,Non resident Jamaicans,Caribbean,2921
+2024-07-01,Non resident Jamaicans,Caribbean,3492
+2024-08-01,Non resident Jamaicans,Caribbean,3286
+2024-09-01,Non resident Jamaicans,Caribbean,2285
+2024-10-01,Non resident Jamaicans,Caribbean,2137
+2024-11-01,Non resident Jamaicans,Caribbean,1751
+2024-12-01,Non resident Jamaicans,Caribbean,5652
+2024-01-01,Non resident Jamaicans,Asia,26
+2024-02-01,Non resident Jamaicans,Asia,13
+2024-03-01,Non resident Jamaicans,Asia,12
+2024-04-01,Non resident Jamaicans,Asia,16
+2024-05-01,Non resident Jamaicans,Asia,3
+2024-06-01,Non resident Jamaicans,Asia,14
+2024-07-01,Non resident Jamaicans,Asia,52
+2024-08-01,Non resident Jamaicans,Asia,19
+2024-09-01,Non resident Jamaicans,Asia,13
+2024-10-01,Non resident Jamaicans,Asia,11
+2024-11-01,Non resident Jamaicans,Asia,9
+2024-12-01,Non resident Jamaicans,Asia,49
+2024-01-01,Non resident Jamaicans,Africa,2
+2024-02-01,Non resident Jamaicans,Africa,2
+2024-03-01,Non resident Jamaicans,Africa,5
+2024-04-01,Non resident Jamaicans,Africa,0
+2024-05-01,Non resident Jamaicans,Africa,4
+2024-06-01,Non resident Jamaicans,Africa,4
+2024-07-01,Non resident Jamaicans,Africa,10
+2024-08-01,Non resident Jamaicans,Africa,1
+2024-09-01,Non resident Jamaicans,Africa,1
+2024-10-01,Non resident Jamaicans,Africa,4
+2024-11-01,Non resident Jamaicans,Africa,0
+2024-12-01,Non resident Jamaicans,Africa,4
+2024-01-01,Non resident Jamaicans,Other,8
+2024-02-01,Non resident Jamaicans,Other,11
+2024-03-01,Non resident Jamaicans,Other,34
+2024-04-01,Non resident Jamaicans,Other,14
+2024-05-01,Non resident Jamaicans,Other,24
+2024-06-01,Non resident Jamaicans,Other,79
+2024-07-01,Non resident Jamaicans,Other,112
+2024-08-01,Non resident Jamaicans,Other,37
+2024-09-01,Non resident Jamaicans,Other,22
+2024-10-01,Non resident Jamaicans,Other,27
+2024-11-01,Non resident Jamaicans,Other,21
+2024-12-01,Non resident Jamaicans,Other,90
+2025-01-01,Foreign nationals,United States,145203
+2025-02-01,Foreign nationals,United States,145362
+2025-03-01,Foreign nationals,United States,179206
+2025-04-01,Foreign nationals,United States,161417
+2025-05-01,Foreign nationals,United States,156773
+2025-06-01,Foreign nationals,United States,194436
+2025-07-01,Foreign nationals,United States,211846
+2025-08-01,Foreign nationals,United States,157876
+2025-09-01,Foreign nationals,United States,102363
+2025-10-01,Foreign nationals,United States,102530
+2025-11-01,Foreign nationals,United States,38342
+2025-12-01,Foreign nationals,United States,112626
+2025-01-01,Foreign nationals,Canada,42280
+2025-02-01,Foreign nationals,Canada,41109
+2025-03-01,Foreign nationals,Canada,44494
+2025-04-01,Foreign nationals,Canada,35775
+2025-05-01,Foreign nationals,Canada,25157
+2025-06-01,Foreign nationals,Canada,19513
+2025-07-01,Foreign nationals,Canada,24653
+2025-08-01,Foreign nationals,Canada,23525
+2025-09-01,Foreign nationals,Canada,16018
+2025-10-01,Foreign nationals,Canada,15590
+2025-11-01,Foreign nationals,Canada,6266
+2025-12-01,Foreign nationals,Canada,26350
+2025-01-01,Foreign nationals,Europe,22651
+2025-02-01,Foreign nationals,Europe,20719
+2025-03-01,Foreign nationals,Europe,21191
+2025-04-01,Foreign nationals,Europe,24056
+2025-05-01,Foreign nationals,Europe,20089
+2025-06-01,Foreign nationals,Europe,20907
+2025-07-01,Foreign nationals,Europe,25332
+2025-08-01,Foreign nationals,Europe,23556
+2025-09-01,Foreign nationals,Europe,19714
+2025-10-01,Foreign nationals,Europe,16122
+2025-11-01,Foreign nationals,Europe,6183
+2025-12-01,Foreign nationals,Europe,19210
+2025-01-01,Foreign nationals,Latin America,5795
+2025-02-01,Foreign nationals,Latin America,4788
+2025-03-01,Foreign nationals,Latin America,4654
+2025-04-01,Foreign nationals,Latin America,5006
+2025-05-01,Foreign nationals,Latin America,5317
+2025-06-01,Foreign nationals,Latin America,5051
+2025-07-01,Foreign nationals,Latin America,5787
+2025-08-01,Foreign nationals,Latin America,5864
+2025-09-01,Foreign nationals,Latin America,5306
+2025-10-01,Foreign nationals,Latin America,5033
+2025-11-01,Foreign nationals,Latin America,1565
+2025-12-01,Foreign nationals,Latin America,4215
+2025-01-01,Foreign nationals,Caribbean,4011
+2025-02-01,Foreign nationals,Caribbean,3315
+2025-03-01,Foreign nationals,Caribbean,3896
+2025-04-01,Foreign nationals,Caribbean,5177
+2025-05-01,Foreign nationals,Caribbean,4619
+2025-06-01,Foreign nationals,Caribbean,4570
+2025-07-01,Foreign nationals,Caribbean,7043
+2025-08-01,Foreign nationals,Caribbean,5576
+2025-09-01,Foreign nationals,Caribbean,4210
+2025-10-01,Foreign nationals,Caribbean,3741
+2025-11-01,Foreign nationals,Caribbean,3358
+2025-12-01,Foreign nationals,Caribbean,3858
+2025-01-01,Foreign nationals,Asia,578
+2025-02-01,Foreign nationals,Asia,721
+2025-03-01,Foreign nationals,Asia,930
+2025-04-01,Foreign nationals,Asia,867
+2025-05-01,Foreign nationals,Asia,882
+2025-06-01,Foreign nationals,Asia,709
+2025-07-01,Foreign nationals,Asia,963
+2025-08-01,Foreign nationals,Asia,711
+2025-09-01,Foreign nationals,Asia,741
+2025-10-01,Foreign nationals,Asia,638
+2025-11-01,Foreign nationals,Asia,618
+2025-12-01,Foreign nationals,Asia,826
+2025-01-01,Foreign nationals,Africa,148
+2025-02-01,Foreign nationals,Africa,152
+2025-03-01,Foreign nationals,Africa,116
+2025-04-01,Foreign nationals,Africa,140
+2025-05-01,Foreign nationals,Africa,125
+2025-06-01,Foreign nationals,Africa,185
+2025-07-01,Foreign nationals,Africa,189
+2025-08-01,Foreign nationals,Africa,128
+2025-09-01,Foreign nationals,Africa,104
+2025-10-01,Foreign nationals,Africa,81
+2025-11-01,Foreign nationals,Africa,55
+2025-12-01,Foreign nationals,Africa,119
+2025-01-01,Foreign nationals,Other,296
+2025-02-01,Foreign nationals,Other,219
+2025-03-01,Foreign nationals,Other,288
+2025-04-01,Foreign nationals,Other,357
+2025-05-01,Foreign nationals,Other,372
+2025-06-01,Foreign nationals,Other,296
+2025-07-01,Foreign nationals,Other,971
+2025-08-01,Foreign nationals,Other,213
+2025-09-01,Foreign nationals,Other,207
+2025-10-01,Foreign nationals,Other,148
+2025-11-01,Foreign nationals,Other,159
+2025-12-01,Foreign nationals,Other,294
+2025-01-01,Non resident Jamaicans,United States,12122
+2025-02-01,Non resident Jamaicans,United States,8702
+2025-03-01,Non resident Jamaicans,United States,9425
+2025-04-01,Non resident Jamaicans,United States,9945
+2025-05-01,Non resident Jamaicans,United States,8415
+2025-06-01,Non resident Jamaicans,United States,12608
+2025-07-01,Non resident Jamaicans,United States,13142
+2025-08-01,Non resident Jamaicans,United States,12506
+2025-09-01,Non resident Jamaicans,United States,8649
+2025-10-01,Non resident Jamaicans,United States,7191
+2025-11-01,Non resident Jamaicans,United States,8697
+2025-12-01,Non resident Jamaicans,United States,20371
+2025-01-01,Non resident Jamaicans,Canada,1907
+2025-02-01,Non resident Jamaicans,Canada,1498
+2025-03-01,Non resident Jamaicans,Canada,1602
+2025-04-01,Non resident Jamaicans,Canada,1972
+2025-05-01,Non resident Jamaicans,Canada,1619
+2025-06-01,Non resident Jamaicans,Canada,2117
+2025-07-01,Non resident Jamaicans,Canada,2722
+2025-08-01,Non resident Jamaicans,Canada,2205
+2025-09-01,Non resident Jamaicans,Canada,1693
+2025-10-01,Non resident Jamaicans,Canada,1687
+2025-11-01,Non resident Jamaicans,Canada,1965
+2025-12-01,Non resident Jamaicans,Canada,3997
+2025-01-01,Non resident Jamaicans,Europe,1460
+2025-02-01,Non resident Jamaicans,Europe,1097
+2025-03-01,Non resident Jamaicans,Europe,1215
+2025-04-01,Non resident Jamaicans,Europe,1357
+2025-05-01,Non resident Jamaicans,Europe,1268
+2025-06-01,Non resident Jamaicans,Europe,1505
+2025-07-01,Non resident Jamaicans,Europe,1708
+2025-08-01,Non resident Jamaicans,Europe,1408
+2025-09-01,Non resident Jamaicans,Europe,1249
+2025-10-01,Non resident Jamaicans,Europe,1137
+2025-11-01,Non resident Jamaicans,Europe,1047
+2025-12-01,Non resident Jamaicans,Europe,2307
+2025-01-01,Non resident Jamaicans,Latin America,33
+2025-02-01,Non resident Jamaicans,Latin America,36
+2025-03-01,Non resident Jamaicans,Latin America,33
+2025-04-01,Non resident Jamaicans,Latin America,33
+2025-05-01,Non resident Jamaicans,Latin America,28
+2025-06-01,Non resident Jamaicans,Latin America,32
+2025-07-01,Non resident Jamaicans,Latin America,40
+2025-08-01,Non resident Jamaicans,Latin America,47
+2025-09-01,Non resident Jamaicans,Latin America,39
+2025-10-01,Non resident Jamaicans,Latin America,24
+2025-11-01,Non resident Jamaicans,Latin America,22
+2025-12-01,Non resident Jamaicans,Latin America,49
+2025-01-01,Non resident Jamaicans,Caribbean,2033
+2025-02-01,Non resident Jamaicans,Caribbean,1933
+2025-03-01,Non resident Jamaicans,Caribbean,2059
+2025-04-01,Non resident Jamaicans,Caribbean,2868
+2025-05-01,Non resident Jamaicans,Caribbean,2133
+2025-06-01,Non resident Jamaicans,Caribbean,2943
+2025-07-01,Non resident Jamaicans,Caribbean,3887
+2025-08-01,Non resident Jamaicans,Caribbean,3522
+2025-09-01,Non resident Jamaicans,Caribbean,2186
+2025-10-01,Non resident Jamaicans,Caribbean,1754
+2025-11-01,Non resident Jamaicans,Caribbean,1790
+2025-12-01,Non resident Jamaicans,Caribbean,4988
+2025-01-01,Non resident Jamaicans,Asia,20
+2025-02-01,Non resident Jamaicans,Asia,5
+2025-03-01,Non resident Jamaicans,Asia,8
+2025-04-01,Non resident Jamaicans,Asia,10
+2025-05-01,Non resident Jamaicans,Asia,13
+2025-06-01,Non resident Jamaicans,Asia,20
+2025-07-01,Non resident Jamaicans,Asia,43
+2025-08-01,Non resident Jamaicans,Asia,28
+2025-09-01,Non resident Jamaicans,Asia,10
+2025-10-01,Non resident Jamaicans,Asia,7
+2025-11-01,Non resident Jamaicans,Asia,5
+2025-12-01,Non resident Jamaicans,Asia,34
+2025-01-01,Non resident Jamaicans,Africa,2
+2025-02-01,Non resident Jamaicans,Africa,7
+2025-03-01,Non resident Jamaicans,Africa,0
+2025-04-01,Non resident Jamaicans,Africa,3
+2025-05-01,Non resident Jamaicans,Africa,3
+2025-06-01,Non resident Jamaicans,Africa,4
+2025-07-01,Non resident Jamaicans,Africa,8
+2025-08-01,Non resident Jamaicans,Africa,4
+2025-09-01,Non resident Jamaicans,Africa,0
+2025-10-01,Non resident Jamaicans,Africa,0
+2025-11-01,Non resident Jamaicans,Africa,2
+2025-12-01,Non resident Jamaicans,Africa,9
+2025-01-01,Non resident Jamaicans,Other,17
+2025-02-01,Non resident Jamaicans,Other,16
+2025-03-01,Non resident Jamaicans,Other,31
+2025-04-01,Non resident Jamaicans,Other,26
+2025-05-01,Non resident Jamaicans,Other,23
+2025-06-01,Non resident Jamaicans,Other,44
+2025-07-01,Non resident Jamaicans,Other,100
+2025-08-01,Non resident Jamaicans,Other,40
+2025-09-01,Non resident Jamaicans,Other,9
+2025-10-01,Non resident Jamaicans,Other,17
+2025-11-01,Non resident Jamaicans,Other,7
+2025-12-01,Non resident Jamaicans,Other,73
