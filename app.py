@@ -228,8 +228,8 @@ with st.expander("Data sources and notes"):
         "- Values are US dollar equivalents in millions. Totals here are gross inflows; BOJ's "
         "headline 'net remittances' also subtracts money sent out of Jamaica.\n"
         "- Parish data cover remittance companies only and start in July 2020.\n"
-        "- For January and February 2026, several parishes show identical figures in the BOJ file. "
-        "They are used as published and flagged here."
+        "- February 2026 parish figures use BOJ's revised release (November 2026). "
+        "The parish table records where money is paid out."
     )
     st.download_button("Download the source country data (CSV)", c.to_csv().encode(),
                        "jamaica_remittances_by_source.csv", "text/csv")

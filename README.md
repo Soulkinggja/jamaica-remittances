@@ -67,8 +67,9 @@ Two things to know:
 * Country figures cover remittance companies. Money through banks and other routes is
   reported as one "other remittances" line with no country split.
 * From 2024 BOJ reports Kingston and St. Andrew together, so they are combined for every
-  month here. For January and February 2026, several parishes show identical figures in
-  the BOJ file. They are used as published.
+  month here. An earlier BOJ file repeated January 2026 figures in February 2026 for five
+  parishes. BOJ revised February after a query in November 2026, and the revised figures
+  are used here. BOJ confirms the parish table records where money is paid out.
 
 ## How the forecast was tested
 

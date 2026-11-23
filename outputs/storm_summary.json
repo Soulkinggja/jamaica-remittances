@@ -97,8 +97,8 @@
    "p_value": 0.396
   },
   "2026-02": {
-   "west_vs_rest_pct": 2.2,
-   "p_value": 0.482
+   "west_vs_rest_pct": 1.5,
+   "p_value": 0.615
   },
   "2026-03": {
    "west_vs_rest_pct": -1.4,

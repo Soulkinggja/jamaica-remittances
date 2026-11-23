@@ -2,7 +2,7 @@
 title: "Diaspora as Insurance: Remittances and Visitor Arrivals in Jamaica after Hurricane Melissa"
 author:
   - Devin McIntosh, The University of the West Indies, Mona
-date: "Working paper, November 2026"
+date: "Working paper, version 2, November 2026"
 abstract: |
   Hurricane Melissa struck Jamaica on 28 October 2025 as a Category 5 storm, causing damage, losses and additional costs estimated at US\$12.2 billion. This paper uses monthly Bank of Jamaica remittance data by source country and by parish, and Jamaica Tourist Board arrivals split into foreign and diaspora visitors, to ask how the Jamaican diaspora responded. Three findings stand out. First, remittances fell 9% to 14% below a pre storm forecast in October and rose 11% to 19% above it in November, so that over the two months combined the main corridors were within 4% of expected: the storm moved the timing of remittances more than their total. The rise came through more transfers, not larger ones. Second, the money did not reach the hardest hit parishes first. In November the five most damaged parishes received 15% less than the rest of the island after parish and month fixed effects (wild cluster bootstrap p = 0.0035), and each 10 points of World Bank estimated damage share meant 6.5% less remittances. The gap closed by December. Third, diaspora visitors held up far better than foreign tourists: measured against each group's own pre storm trend, October to December arrivals were 8.7% below expected for non resident Jamaicans and 43.6% below for foreign visitors. The results suggest that the diaspora does act as insurance, but that the payout network in disaster zones limits how fast that insurance arrives.
 
@@ -54,7 +54,7 @@ All series are monthly and in US dollars unless noted. Data and code are public 
 | Stopover arrivals by segment | Jamaica Tourist Board | Jan 2023 to Dec 2025 | Foreign nationals and non resident Jamaicans |
 | Damage by parish | World Bank GRADE (2025) | Melissa only | Damage as a share of exposed value |
 
-The remittance tables were checked against the sum of every value in the original files, and annual totals match published figures (US\$3,357.9 million for 2024). Two data issues are noted. Parish figures for January and February 2026 repeat exactly for several parishes, which looks like a carried forward value; Bank of Jamaica is being asked to confirm them, and the November results do not depend on those months. The parish table covers remittance companies only, which carry most inflows.
+The remittance tables were checked against the sum of every value in the original files, and annual totals match published figures (US\$3,357.9 million for 2024). Two data notes apply. An earlier release of the parish table repeated the January 2026 figures for five parishes in February 2026; after a query, Bank of Jamaica revised the February figures (November 2026), and this version uses the revised table. The revision changes no result reported here. The parish table covers remittance companies only, which carry most inflows, and Bank of Jamaica confirms that it records where funds are paid out.
 
 # 5. Methods
 
@@ -92,7 +92,7 @@ Figure 3 plots each parish's November remittance growth against its storm damage
 
 ![](figures/fig3_parish_damage.png){width=90%}
 
-One explanation is that remittance agents, banks and power were out of service in the west in November, so money was sent to, or collected by, relatives in less damaged parishes. The data cannot separate these channels, and the parish table records where money was paid out, not where it was spent.
+One explanation is that remittance agents, banks and power were out of service in the west in November, so money was sent to, or collected by, relatives in less damaged parishes. The data cannot separate these channels, and the parish table records where money was paid out (Bank of Jamaica, personal communication, 23 November 2026), not where it was spent.
 
 ## 6.3 Diaspora visitors held up far better than foreign visitors
 
