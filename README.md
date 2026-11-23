@@ -1,5 +1,7 @@
 # Jamaica remittances tracker and forecast
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24473012.svg)](https://doi.org/10.5281/zenodo.24473012)
+
 Remittances, the money Jamaicans abroad send home, were worth US$3.49 billion in 2025.
 They are Jamaica's second biggest source of foreign currency after tourism. This project
 tracks them month by month from Bank of Jamaica statistics, breaks them down by source
@@ -7,6 +9,8 @@ country and by parish, forecasts them to the end of 2027, and measures what Hurr
 Melissa did to them.
 
 **Live app: https://jamaica-remittances.streamlit.app**
+
+**Working paper:** [Diaspora as Insurance: Remittances and Visitor Arrivals in Jamaica after Hurricane Melissa](https://doi.org/10.5281/zenodo.24473012) ([PDF in this repo](paper/McIntosh_2026_Diaspora_as_Insurance.pdf))
 
 ![App screenshot](screenshot.png)
 
@@ -130,3 +134,7 @@ outputs/                results used by the app
 ```
 
 Built by [Devin McIntosh](https://www.linkedin.com/in/devinlerandezmcintosh).
+
+## How to cite
+
+McIntosh, Devin. 2026. "Diaspora as Insurance: Remittances and Visitor Arrivals in Jamaica after Hurricane Melissa." Working paper. Zenodo. https://doi.org/10.5281/zenodo.24473012
