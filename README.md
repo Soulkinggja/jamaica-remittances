@@ -1,6 +1,6 @@
 # Jamaica remittances tracker and forecast
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24473012.svg)](https://doi.org/10.5281/zenodo.24473012)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24473011.svg)](https://doi.org/10.5281/zenodo.24473011)
 
 Remittances, the money Jamaicans abroad send home, were worth US$3.49 billion in 2025.
 They are Jamaica's second biggest source of foreign currency after tourism. This project
@@ -10,7 +10,7 @@ Melissa did to them.
 
 **Live app: https://jamaica-remittances.streamlit.app**
 
-**Working paper:** [Diaspora as Insurance: Remittances and Visitor Arrivals in Jamaica after Hurricane Melissa](https://doi.org/10.5281/zenodo.24473012) ([PDF in this repo](paper/McIntosh_2026_Diaspora_as_Insurance.pdf))
+**Working paper:** [Diaspora as Insurance: Remittances and Visitor Arrivals in Jamaica after Hurricane Melissa](https://doi.org/10.5281/zenodo.24473011) ([PDF in this repo](paper/McIntosh_2026_Diaspora_as_Insurance.pdf))
 
 ![App screenshot](screenshot.png)
 
@@ -138,4 +138,4 @@ Built by [Devin McIntosh](https://www.linkedin.com/in/devinlerandezmcintosh).
 
 ## How to cite
 
-McIntosh, Devin. 2026. "Diaspora as Insurance: Remittances and Visitor Arrivals in Jamaica after Hurricane Melissa." Working paper. Zenodo. https://doi.org/10.5281/zenodo.24473012
+McIntosh, Devin. 2026. "Diaspora as Insurance: Remittances and Visitor Arrivals in Jamaica after Hurricane Melissa." Working paper. Zenodo. https://doi.org/10.5281/zenodo.24473011
