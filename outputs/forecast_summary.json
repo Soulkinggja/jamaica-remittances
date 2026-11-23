@@ -1,0 +1,16 @@
+{
+ "model": "Exponential smoothing (damped trend, log scale)",
+ "last_actual_month": "2026-08",
+ "actual_2024": 3357.9,
+ "actual_2025": 3485.7,
+ "forecast_2026_total": 3661.6,
+ "range80_2026": [
+  3589.2,
+  3739.0
+ ],
+ "forecast_2027_total": 3684.5,
+ "range80_2027": [
+  3335.8,
+  4096.6
+ ]
+}

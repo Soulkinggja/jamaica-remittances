@@ -1,0 +1,5 @@
+model,mape_1m,mape_12m_total,n_1m,mape_1m_no_storms
+Exponential smoothing,2.64,1.71,44,2.23
+SARIMA,2.85,2.82,44,2.4
+Seasonal naive with growth,3.53,2.15,44,3.06
+Seasonal naive,4.04,2.08,44,3.56
